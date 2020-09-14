@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfbe5a93-544c-4bae-b31d-a8475dec046d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DGNet_Trainer</find>
+      <find>train_bn</find>
+      <find>decode(se</find>
+      <find>decode</find>
+      <find>self.dec</find>
+      <find>Decoder</find>
+      <find>SpectralNorm</find>
+      <find>AdaINGe</find>
+      <find>ft_netAB</find>
+      <find>self.gen_a</find>
+      <find>criterion_teacher</find>
+      <find>l_b</find>
+      <find>id_criterion</find>
+      <find>s_a_recon</find>
+      <find>p_a</find>
+      <find>p_a_recon</find>
+      <find>self.id_criterion</find>
+      <find>f_a_recon</find>
+      <find>sample</find>
+      <find>self.eval</find>
+      <find>predict_label</find>
+      <find>calc_gen_loss</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1hTx2UEqGsjPhWt9pZ2Mb3Lm5BJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfbe5a93-544c-4bae-b31d-a8475dec046d" name="Default Changelist" comment="" />
+      <created>1599372029856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599372029856</updated>
+      <workItem from="1599372031471" duration="13564000" />
+      <workItem from="1599473703175" duration="3560000" />
+      <workItem from="1599515434668" duration="13117000" />
+      <workItem from="1599567760314" duration="7365000" />
+      <workItem from="1599645775832" duration="595000" />
+      <workItem from="1599701807215" duration="2611000" />
+      <workItem from="1599706134672" duration="18875000" />
+      <workItem from="1599795610342" duration="2528000" />
+      <workItem from="1599957394276" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
